@@ -2,7 +2,7 @@
 Arduino projects
 RGB LED Photoflood - full article at https://tekmaker.blogspot.com/2020/12/rgb-photoflood-arduino-project.html
 YouTube Videos at https://www.youtube.com/watch?v=_oBho88mrvk&list=PLD8LpUarTkkYW0hYQ8hFyVJ1XqDnbblBH
-You are free to use my code as you see fit, if you use it for commercial purposes please get in touch to agree a license fee and support
+You are free to use my code and modify it as you see fit, if you use it for commercial purposes please get in touch to agree a license fee and support
 tekmakeruk@gmail.com
 
 So, I was looking at the price of photofloods for photography and video production and baulking at the prices. I had previously used a battery powered one with 160 LEDs that cost around 20 GBP which was ok for basic photography lighting fill-in, that is to supplement room lighting. But for video you really need something more powerful. So my criteria was 
